@@ -2,6 +2,32 @@
 
 **ALE** - arcfide's line editor
 
+# DEMO
+
+```
+      ⎕CS e
+      RESET
+      i _
+hello world
+.
+      n _a
+1  hello world
+      _ t _
+      n _a
+1  hello world
+2  hello world
+      n _
+2  hello world
+      s'lo' 'lo happy'
+      n _a
+1  hello world
+2  hello happy world
+      u
+      n _a
+1  hello world
+2  hello world
+```
+
 # DESCRIPTION
 
 **ALE** is a line editor that I have created because I can. One of my all time
